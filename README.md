@@ -1,8 +1,7 @@
-<!DOCTYPE html>
 <html lang="vi">
 <head>
 <meta charset="UTF-8">
-<title>Casino Hub AI</title>
+<title> TOOL AI</title>
 
 <style>
 /* ===== RESET ===== */
